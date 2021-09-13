@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug 01 01:11:02 2016
-Created for Sentiment Analysis Project 
-@author: Suven Data Science team
+Created on Mon Sep 13 19:55:02 2021
+Created for dataset using machine learning 
+@author: Bảo Bi
 """
 
-CONTRACTION_MAP = {
+contractions_dict = {
 "ain't": "is not",
 "aren't": "are not",
 "can't": "cannot",
