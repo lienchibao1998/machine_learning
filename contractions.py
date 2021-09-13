@@ -5,7 +5,7 @@ Created for dataset using machine learning
 @author: Bảo Bi
 """
 
-contractions_dict = {
+CONTRACTION_MAP = {
 "ain't": "is not",
 "aren't": "are not",
 "can't": "cannot",
